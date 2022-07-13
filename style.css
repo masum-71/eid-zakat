@@ -28,6 +28,7 @@
 
 .description{
     font-size: 18px;
+    margin: 10px 0;
 }
 
 .btn{
@@ -37,4 +38,25 @@
     color: white;
     background-color: rgb(235, 125, 42);
     border-radius: 15px;
+    border: none;
+}
+
+.explore{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 100px auto;
+}
+
+.sub-header{
+    font-size: 50px;
+}
+.explore-info{
+    width: 50%;
+    margin-right: 5%;
+}
+
+.explore-video{
+    width: 40%;
+    margin-left: 5%;
 }
