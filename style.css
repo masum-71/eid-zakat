@@ -134,3 +134,19 @@ button{
     background-color: none;
     margin-top: 25px;
 }
+
+footer{
+    width: 100%;
+    background-color: black;
+    text-align: center;
+}
+
+footer h4{
+    font-family: 'Pacifico', cursive;
+    color: red;
+    font-size: 25px;
+}
+
+footer p{
+    color: white;
+}
