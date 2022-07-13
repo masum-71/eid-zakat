@@ -93,3 +93,44 @@
     margin: 20px 1%;
     border-radius: 10px;
 }
+
+.zakat{
+    width: 80%;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.zakat-info{
+    width: 60%;
+    margin: auto;
+}
+
+.fund-div{
+    display: flex;
+}
+.fund{
+    width: 30%;
+    text-align: left;
+    margin: 25px 1%;
+    border-radius: 10px;
+    border: 1px solid rgb(184, 183, 183);
+}
+
+.fund img{
+    width: 100%;
+    margin-bottom: 25px;
+    border-radius: 10px 10px 0 0;
+}
+
+.fund-info{
+    padding: 15px;
+}
+
+button{
+    font-size: 25px;
+    text-decoration: underline;
+    border: none;
+    color: rgb(252, 96, 96);
+    background-color: none;
+    margin-top: 25px;
+}
