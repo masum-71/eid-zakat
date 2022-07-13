@@ -53,10 +53,32 @@
 }
 .explore-info{
     width: 50%;
-    margin-right: 5%;
 }
 
-.explore-video{
+.explore-content{
     width: 40%;
-    margin-left: 5%;
+}
+
+.help{
+    width: 70%;
+    margin: 100px auto;
+    text-align: center;
+}
+
+.direct-help{
+    display: flex;
+}
+.help-div{
+    display: flex;
+    width: 45%;
+    margin: 50px 0;
+    text-align: left;
+    margin: 30px;
+    background-color: rgb(249, 231, 231);
+    padding: 25px;
+    border-radius: 10px;
+}
+
+.img{
+    margin-right: 20px;
 }
